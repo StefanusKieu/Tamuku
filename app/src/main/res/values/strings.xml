@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ImportedFromXD</string>
+    <string name="tamuku_text">TAMUKU</string>
+    <string name="agree_text">I Agree to Tamuku\'s Terms of Service and Privacy Policy.</string>
+    <string name="please_text">Please Enter your Mobile Number</string>
+</resources>
